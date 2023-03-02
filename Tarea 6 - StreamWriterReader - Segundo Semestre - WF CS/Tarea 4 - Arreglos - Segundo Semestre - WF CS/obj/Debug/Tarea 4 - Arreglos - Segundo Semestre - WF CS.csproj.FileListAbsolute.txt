@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\bin\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.exe.config
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\bin\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.exe
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\bin\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.pdb
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea_4___Arreglos___Segundo_Semestre___WF_CS.Form1.resources
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea_4___Arreglos___Segundo_Semestre___WF_CS.Properties.Resources.resources
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.exe
+C:\Users\andre\source\repos\Tarea 4 - Arreglos - Segundo Semestre - WF CS\Tarea 4 - Arreglos - Segundo Semestre - WF CS\obj\Debug\Tarea 4 - Arreglos - Segundo Semestre - WF CS.pdb
